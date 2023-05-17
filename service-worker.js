@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/amcglen/Staff_Digital_Awards/precache-manifest.17e702b25c4abf854370d0671cd3b5dd.js"
+  "/Staff_Digital_Awards/precache-manifest.db6afd030dd99d97e04b4b32df83f50b.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/amcglen/Staff_Digital_Awards/index.html", {
+workbox.routing.registerNavigationRoute("/Staff_Digital_Awards/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
