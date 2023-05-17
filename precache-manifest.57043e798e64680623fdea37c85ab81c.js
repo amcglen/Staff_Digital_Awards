@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "906d0265961790225048",
+    "revision": "99fde44a53b1e0b7a12c",
     "url": "/Staff_Digital_Awards/static/css/main.e49d5e84.chunk.css"
   },
   {
-    "revision": "906d0265961790225048",
-    "url": "/Staff_Digital_Awards/static/js/main.906d0265.chunk.js"
+    "revision": "99fde44a53b1e0b7a12c",
+    "url": "/Staff_Digital_Awards/static/js/main.99fde44a.chunk.js"
   },
   {
     "revision": "30fd28a3384e27230691",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/Staff_Digital_Awards/static/media/LA-Logo.da0fd214.png"
   },
   {
-    "revision": "caedb6f674732ff5449fa9619e0689e5",
+    "revision": "bce7066bb6c7bd3198a8c5698accc7e4",
     "url": "/Staff_Digital_Awards/index.html"
   }
 ];
