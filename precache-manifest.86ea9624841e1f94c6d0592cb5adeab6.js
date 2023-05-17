@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/Staff_Digital_Awards/static/media/LA-Logo.da0fd214.png"
   },
   {
-    "revision": "bce7066bb6c7bd3198a8c5698accc7e4",
+    "revision": "94ab78b583fe13d20622b86a39a55a5b",
     "url": "/Staff_Digital_Awards/index.html"
   }
 ];
