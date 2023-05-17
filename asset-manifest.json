@@ -1,7 +1,7 @@
 {
   "main.css": "/Staff_Digital_Awards/static/css/main.88c8c905.chunk.css",
-  "main.js": "/Staff_Digital_Awards/static/js/main.2042abaf.chunk.js",
-  "main.js.map": "/Staff_Digital_Awards/static/js/main.2042abaf.chunk.js.map",
+  "main.js": "/Staff_Digital_Awards/static/js/main.b49fa355.chunk.js",
+  "main.js.map": "/Staff_Digital_Awards/static/js/main.b49fa355.chunk.js.map",
   "static/js/1.30fd28a3.chunk.js": "/Staff_Digital_Awards/static/js/1.30fd28a3.chunk.js",
   "static/js/1.30fd28a3.chunk.js.map": "/Staff_Digital_Awards/static/js/1.30fd28a3.chunk.js.map",
   "static/css/2.d7e932b5.chunk.css": "/Staff_Digital_Awards/static/css/2.d7e932b5.chunk.css",
@@ -14,9 +14,9 @@
   "static/media/MCE_badge.png": "/Staff_Digital_Awards/static/media/MCE_badge.51c8c9d9.png",
   "static/media/m_adv_e-2023.svg": "/Staff_Digital_Awards/static/media/m_adv_e-2023.31bc9e70.svg",
   "static/media/LA-Logo.png": "/Staff_Digital_Awards/static/media/LA-Logo.da0fd214.png",
-  "static/css/2.d7e932b5.chunk.css.map": "/Staff_Digital_Awards/static/css/2.d7e932b5.chunk.css.map",
   "static/css/main.88c8c905.chunk.css.map": "/Staff_Digital_Awards/static/css/main.88c8c905.chunk.css.map",
+  "static/css/2.d7e932b5.chunk.css.map": "/Staff_Digital_Awards/static/css/2.d7e932b5.chunk.css.map",
   "index.html": "/Staff_Digital_Awards/index.html",
-  "precache-manifest.0e47cc61044960e61de9b34e5a23a8b1.js": "/Staff_Digital_Awards/precache-manifest.0e47cc61044960e61de9b34e5a23a8b1.js",
+  "precache-manifest.7c7504d1eda935089dc973118fd58b9b.js": "/Staff_Digital_Awards/precache-manifest.7c7504d1eda935089dc973118fd58b9b.js",
   "service-worker.js": "/Staff_Digital_Awards/service-worker.js"
 }
