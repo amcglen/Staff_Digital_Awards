@@ -1,7 +1,7 @@
 {
   "main.css": "/Staff_Digital_Awards/static/css/main.e49d5e84.chunk.css",
-  "main.js": "/Staff_Digital_Awards/static/js/main.cb32c247.chunk.js",
-  "main.js.map": "/Staff_Digital_Awards/static/js/main.cb32c247.chunk.js.map",
+  "main.js": "/Staff_Digital_Awards/static/js/main.0263cd88.chunk.js",
+  "main.js.map": "/Staff_Digital_Awards/static/js/main.0263cd88.chunk.js.map",
   "static/js/1.31990582.chunk.js": "/Staff_Digital_Awards/static/js/1.31990582.chunk.js",
   "static/js/1.31990582.chunk.js.map": "/Staff_Digital_Awards/static/js/1.31990582.chunk.js.map",
   "static/css/2.d7e932b5.chunk.css": "/Staff_Digital_Awards/static/css/2.d7e932b5.chunk.css",
@@ -18,6 +18,6 @@
   "static/css/main.e49d5e84.chunk.css.map": "/Staff_Digital_Awards/static/css/main.e49d5e84.chunk.css.map",
   "static/css/2.d7e932b5.chunk.css.map": "/Staff_Digital_Awards/static/css/2.d7e932b5.chunk.css.map",
   "index.html": "/Staff_Digital_Awards/index.html",
-  "precache-manifest.9caafc0600fbc728f0c55305dc337ff0.js": "/Staff_Digital_Awards/precache-manifest.9caafc0600fbc728f0c55305dc337ff0.js",
+  "precache-manifest.cc51897eed60f41da6058586cb7324cd.js": "/Staff_Digital_Awards/precache-manifest.cc51897eed60f41da6058586cb7324cd.js",
   "service-worker.js": "/Staff_Digital_Awards/service-worker.js"
 }
