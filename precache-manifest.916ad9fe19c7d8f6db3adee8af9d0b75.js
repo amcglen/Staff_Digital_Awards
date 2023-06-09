@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7a5c3df0346ff0c15fe1",
+    "revision": "0c096f017fa682eb6fbd",
     "url": "/Staff_Digital_Awards/static/css/main.e49d5e84.chunk.css"
   },
   {
-    "revision": "7a5c3df0346ff0c15fe1",
-    "url": "/Staff_Digital_Awards/static/js/main.7a5c3df0.chunk.js"
+    "revision": "0c096f017fa682eb6fbd",
+    "url": "/Staff_Digital_Awards/static/js/main.0c096f01.chunk.js"
   },
   {
     "revision": "31990582db3f73d58594",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/Staff_Digital_Awards/static/media/Microsoft ME Intro.c343dd1d.mp4"
   },
   {
-    "revision": "bdbe796e3ad9ef16cbf7b4612e6ee73d",
+    "revision": "dcc2626306eac0b4c48f60a1bcbba773",
     "url": "/Staff_Digital_Awards/index.html"
   }
 ];
